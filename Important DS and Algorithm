@@ -1,0 +1,35 @@
+1 Depth first search  - It is like stack. traverse from parent node to child node and  vice versa. add one of the children on stack
+
+2 Breadth first search - like que it is like que.
+
+3 Matching Brackets - stack or que like proper open and closed
+
+4 Hash Table - It is nosql. Keep tracking in arrays, cache values, keep tracking. cache and memory is used in dynamic programming.
+
+5 variable/pointer manipulation - how to manipulate multiple variable/pointer at once. a
+
+lgoexpert.io/techlead
+
+6 Reverse Linked List - Detecting cycle in linked list and it is removing the duplicate value before going to the Data Structure. Made a class in node may be in additional data structure and pointers the payload for that linked list inside there.
+
+7 Sorting Fundamental - quick merge, and insertion sort.
+
+8 Recursion - Not used in production app. it is asked to check problem solving approach and fundamentals concepts.
+ 
+9 custom data structure - Suffix.Object oriented  and then. you construct the object which you can call method which gives you some random result   or something like that and just that proper encapsulation the abstraction of  these objects makes the solution far more simpler than if you were to try to tackle this without first constructing the proper data structures. encapsulating the logic in class method not in the main method. This will focus on data structure and class. 
+
+10 Binary Search - used in linked list to find out the value(string int etc). First sort the value and filter with less then and greater then. It will reduce the half the data type where we can search the value.
+
+---most of coding interview question asked for manipulating the pointers
+---some the question are related to asked the Object oriented question fundamentals.
+
+1. Depth First Search
+2. Breadth-First Search
+3. Matching Parenthesis
+4.Making use of Hash Tables
+5. Knowing how to manipulate multiple variables/Pointers at once
+6. Reversing a linked list
+7.Sorting fundamentals  (time complexity, functioning, etc.)
+8. Recursion
+9. Custom Data structure (ex. suffix tree )
+10.Binary Search
